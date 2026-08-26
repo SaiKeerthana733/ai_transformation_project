@@ -4,4 +4,3 @@ pydantic
 requests
 python-dotenv
 streamlit
-sqlite3-binary
